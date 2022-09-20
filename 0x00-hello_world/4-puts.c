@@ -1,8 +1,8 @@
 #include <stdio.h>
 /*
- * main - main block
+ * main - Entry point
+ *
  * Return: Always 0 (Success)
- * puts function example 
 */
 int main(void)
 {
