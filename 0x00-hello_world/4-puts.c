@@ -2,6 +2,7 @@
 /*
  * main - main block
  * Return: Always 0 (Success)
+ * puts function example 
 */
 int main(void)
 {
