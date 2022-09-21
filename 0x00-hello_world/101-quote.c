@@ -6,7 +6,7 @@
 int main(void)
 {
 	char ch[] = "and that piece of art is useful";
-	printf (ch);
+	printf ("Hello world");
 	return (1);
 
 }
