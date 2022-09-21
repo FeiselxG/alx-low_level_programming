@@ -5,7 +5,7 @@
  */
 int main(void)
 {
-	printf("and that piece of art is useful%c - Dora Korpar, 2015-10-19", 34);
+	printf("\nand that piece of art is useful%c - Dora Korpar, 2015-10-19", 34);
 	return (1);
 
 }
