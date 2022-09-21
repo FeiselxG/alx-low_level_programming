@@ -5,8 +5,7 @@
  */
 int main(void)
 {
-	char ch = '"';
-	printf("and that piece of art is useful" ,ch, " - Dora Korpar, 2015-10-19");
+	printf("and that piece of art is useful%c - Dora Korpar, 2015-10-19",34);
 	return (1);
 
 }
