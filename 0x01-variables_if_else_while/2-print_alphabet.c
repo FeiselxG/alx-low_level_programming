@@ -8,7 +8,7 @@ int main(void)
 {
 	char chlower = 'a';
 
-	while (chlower <= 'z')
+	while(chlower <= 'z')
 		{
 			putchar(chlower);
 			chlower++;
