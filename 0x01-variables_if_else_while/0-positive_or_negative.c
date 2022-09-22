@@ -10,10 +10,10 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if(n>0)
-		printf(n , " is negative");
+		printf("%1 is negative\n",n);
 	else if(n<0)
-		printf(n , " is positive");
+		printf("%1 is positive\n",n);
 	else
-		print(n , " is zero");
+		print("%1 is zero\n",n);
 	return (0);
 }
