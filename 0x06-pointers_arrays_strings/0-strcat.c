@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "strhead.h"
 #include <stdio.h>
 
 /**
