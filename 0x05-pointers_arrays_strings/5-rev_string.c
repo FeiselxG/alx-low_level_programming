@@ -23,7 +23,7 @@ void rev_string(char *s)
 
 	for (i = 0; i < c; i++)
 	{
-		a[i] = s[j]
+		a[i] = s[j];
 		j--;
 	}
 	s=a;
