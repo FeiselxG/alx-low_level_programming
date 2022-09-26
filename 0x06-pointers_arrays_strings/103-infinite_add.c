@@ -25,7 +25,8 @@ char *infinite_add(char *n1, char *n2, char *r, int size_r)
 		bg = c2;
 
 	if (size_r <= bg + 1)
-		return (0);
+		return ('0');
+
 
 	r[bg + 1] = '\0';
 	c1--, c2--, size_r--;
